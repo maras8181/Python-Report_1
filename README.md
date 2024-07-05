@@ -1,0 +1,1 @@
+This script is sending report (excel file) to relevant department or person. The data is filterred based on value in specific column. Each row contains specific user where the current filterred row is sent to this person via email.
